@@ -1,0 +1,19 @@
+{
+  "name": "Template",
+  "version": "1.0.0",
+  "description": "My template application",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-serve": "^0.1.6"
+  },
+  "devDependencies": {
+    "grunt-contrib-connect": "^0.10.1",
+    "grunt-serve": "^0.1.6"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Glenn Spinks",
+  "license": "ISC"
+}
